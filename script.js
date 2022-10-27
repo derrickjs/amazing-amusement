@@ -49,11 +49,11 @@ const checkRonald = () => {
 
     if(name == "ronald"){
 
-    changeText.innerHTML = "Hello, " + name + ". Enjoy 15% off";
+    changeText.innerHTML = "Hello " + name + ". Enjoy 15% off";
     }
 
     else{
-        changeText.innerHTML = "Thank you! A representive will be in touch with you shortly."
+        changeText.innerHTML = "Thank you! A representative will be in touch with you shortly."
     }
     
 }
